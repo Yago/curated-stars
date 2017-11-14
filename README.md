@@ -10,6 +10,9 @@ Own curated list of Github stars.
 > [sanity-io/**sanity**](https://github.com/sanity-io/sanity)<br>
 > *Sanity Content Studio – Collaborate in real-time on structured data*
 
+> [frappe/**charts**](https://github.com/frappe/charts)<br>
+> *Simple, responsive, modern SVG Charts with zero dependencies*
+
 ### 💛 JavaScript Libraries
 
 > [facebook/**immutable-js**](https://github.com/facebook/immutable-js)<br>
