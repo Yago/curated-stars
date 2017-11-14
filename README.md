@@ -43,7 +43,7 @@ Own curated list of Github stars.
 > *✈️ Easily create sites that work offline as well as online*
 
 > [sitespeedio/**sitespeed.io**](https://github.com/sitespeedio/sitespeed.io)<br>
-> *[Sitespeed.io](https://www.sitespeed.io/) is an open source tool that helps you analyze and optimize...*
+> *Sitespeed.io is an open source tool that helps you analyze and optimize your ...*
 
 ### 📱 Applications
 
