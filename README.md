@@ -4,6 +4,9 @@ Own curated list of Github stars.
 
 ### 🔥 On fire
 
+> [sintaxi/**surge**](https://github.com/sintaxi/surge)<br>
+> *CLI for the surge.sh CDN*
+
 > [franciscop/**server**](https://github.com/franciscop/server)<br>
 > *🖥 Simple and powerful server for Node.js [serverjs.io](serverjs.io)*
 
